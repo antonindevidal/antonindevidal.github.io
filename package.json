@@ -1,0 +1,19 @@
+{
+  "name": "antonindevidal.github.io",
+  "version": "1.0.0",
+  "description": "Mon portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonindevidal/antonindevidal.github.io.git"
+  },
+  "author": "Antonin DEVIDAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonindevidal/antonindevidal.github.io/issues"
+  },
+  "homepage": "https://github.com/antonindevidal/antonindevidal.github.io#readme"
+}
